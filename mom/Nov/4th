@@ -1,0 +1,14 @@
+4th November
+Meeting with Prof Raghu Reddy
+VLEAD
+
+Automation Scripts
+
+I showed the work done till now which was testing the installation of dependecies done using script.sh.
+Some silly bugs were fixed because of which errors were shown before.
+
+Next week, the work to be done(mandatory):
+
+Test the script on all the possible test environments. Set up VMs to do that. This work needs to be completed.
+(Non-negotibale).
+
